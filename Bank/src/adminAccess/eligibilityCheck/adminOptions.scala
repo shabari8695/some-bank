@@ -9,6 +9,6 @@ class getUserValues{
     (new getData).storeALMDetails()
     val loanAmount=(new allowedAmount).getAllowdAmount(customerAccountBalance)
     println("allowed amount for the customer would be around: Rs"+loanAmount)
-    println("done!!")
+    println("Thank you for using our service")
   }
 }
